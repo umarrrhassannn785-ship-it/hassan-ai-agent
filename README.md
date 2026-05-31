@@ -1,1 +1,5 @@
-# hassan-ai-agent
+package.json
+app/
+components/
+public/
+...
